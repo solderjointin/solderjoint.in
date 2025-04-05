@@ -80,6 +80,13 @@ h1 {
     color: var(--accent-color);
 }
 
+.catalog-text {
+    margin-top: 1rem;
+    color: #666;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
 @media (max-width: 768px) {
     .desktop-view {
         display: none;
