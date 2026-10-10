@@ -1,0 +1,8 @@
+# Local scratch notes — never publish these
+20261005
+*.local.md
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp

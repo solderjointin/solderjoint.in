@@ -1,0 +1,22 @@
+{
+  "name": "SolderJoint.in",
+  "short_name": "SolderJoint",
+  "description": "Special purpose machines, testing jigs and instruments, SPC and industrial data systems, plus educational kits.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d2c3b",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
